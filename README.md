@@ -1,6 +1,6 @@
 # DesktopPro
 
-ime to Check who is staring at your PC when you are working on it
+Time to Check who is staring at your PC when you are working on it
 
 #Team Members:
 @AnshuMishra
